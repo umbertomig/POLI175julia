@@ -1,3 +1,10 @@
+## Custom Mignozzetti gitignore
+
+# My adds: remove annoying system file mac
+.DS_Store
+
+## Python GitHub default
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
