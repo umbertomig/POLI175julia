@@ -1,7 +1,12 @@
 ## Custom Mignozzetti gitignore
 
-# My adds: remove annoying system file mac
+## My adds: 
+
+# 1. Remove annoying system file mac
 .DS_Store
+
+# 2. Sandbox folder
+sandbox/
 
 ## Python GitHub default
 
